@@ -1,0 +1,15 @@
+E:\alissoneear\repo-course\bin\Debug\net7.0\repo-course.exe
+E:\alissoneear\repo-course\bin\Debug\net7.0\repo-course.deps.json
+E:\alissoneear\repo-course\bin\Debug\net7.0\repo-course.runtimeconfig.json
+E:\alissoneear\repo-course\bin\Debug\net7.0\repo-course.dll
+E:\alissoneear\repo-course\bin\Debug\net7.0\repo-course.pdb
+E:\alissoneear\repo-course\obj\Debug\net7.0\repo-course.csproj.AssemblyReference.cache
+E:\alissoneear\repo-course\obj\Debug\net7.0\repo-course.GeneratedMSBuildEditorConfig.editorconfig
+E:\alissoneear\repo-course\obj\Debug\net7.0\repo-course.AssemblyInfoInputs.cache
+E:\alissoneear\repo-course\obj\Debug\net7.0\repo-course.AssemblyInfo.cs
+E:\alissoneear\repo-course\obj\Debug\net7.0\repo-course.csproj.CoreCompileInputs.cache
+E:\alissoneear\repo-course\obj\Debug\net7.0\repo-course.dll
+E:\alissoneear\repo-course\obj\Debug\net7.0\refint\repo-course.dll
+E:\alissoneear\repo-course\obj\Debug\net7.0\repo-course.pdb
+E:\alissoneear\repo-course\obj\Debug\net7.0\repo-course.genruntimeconfig.cache
+E:\alissoneear\repo-course\obj\Debug\net7.0\ref\repo-course.dll
